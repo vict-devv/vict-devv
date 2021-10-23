@@ -6,7 +6,7 @@ I live in __Goiânia/GO, Brazil__ and work at __[Nectar CRM](https://nectarcrm.c
 
 Bachelor degree in Electrical Engineering from __[UFG](https://www.ufg.br/) / Brazil__
 
-### Becoming a better  __[GoLang](https://golang.org/)__ developer each day  💙🤍 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 💙🤍.
+### Becoming a better Developer each day  💙🤍 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 💙🤍.
 
 ##
 
