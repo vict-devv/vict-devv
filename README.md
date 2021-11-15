@@ -64,4 +64,7 @@
   <br/>
   
   <span><b>That's All Folks, Peace!! ☮️✌️</b></span>
+  
+  ![counter](https://komarev.com/ghpvc/?username=vict-devv&color=blueviolet)
+  
 </div>
