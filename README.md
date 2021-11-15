@@ -36,7 +36,7 @@
 
 #### Status
 
-[![Top Langs](https://github-readme-stats-vict-devv.vercel.app/api/top-langs/?username=vict-devv&hide=javascript,css,scss,html&layout=compact)](https://github.com/vict-devv/github-readme-stats)
+[![Top Langs](https://github-readme-stats-vict-devv.vercel.app/api/top-langs/?username=vict-devv&hide=javascript&layout=compact)](https://github.com/vict-devv/github-readme-stats)
 
 
 <div align=center>
