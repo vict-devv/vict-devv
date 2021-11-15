@@ -34,7 +34,7 @@
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-#### Status
+#### Status:
 
 [![Top Langs](https://github-readme-stats-vict-devv.vercel.app/api/top-langs/?username=vict-devv&exclude_repo=cow-street,p5-pong&layout=compact&theme=nord)](https://github.com/vict-devv/github-readme-stats)
 
