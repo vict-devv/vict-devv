@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/78317087/141852124-4ad66c51-5ae7-41ab-b0f4-ee5c68200560.png)
 
 ### Personal Information
-* ✔️ — Hi everyone, I am **Victor Ferreira** better known as **Victim** 😛, 28 years old, bachelor in electrical engineering, and have experience working in startups as a full stack web developer, but my skills in the back-end area are sharper 😎.
+* ✔️ — Hi everyone, I am **Victor Ferreira** better known as **Victim** 😛, 28 years old, bachelor in electrical engineering, and have a few years of experience working as a full stack web developer, but my skills in the back-end area are sharper 😎.
 
 * 🌇 — I'm currently living in **Goiânia/GO - Brazil**.
 
