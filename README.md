@@ -12,12 +12,6 @@
 
 * 👨‍💻 - Focusing tech stack: **Go**, **AWS**, **Kubernetes**, **MySQL** and **Terraform**.
 
-
-#### Status:
-
-[![Top Langs](https://github-readme-stats-vict-devv.vercel.app/api/top-langs/?username=vict-devv&exclude_repo=cow-street,p5-pong&layout=compact&theme=nord)](https://github.com/vict-devv/github-readme-stats)
-
-
 <div align=center>
   <a href=https://www.linkedin.com/in/victor-ferreira-ara%C3%BAjo-327049156>
     <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white />
