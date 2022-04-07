@@ -8,7 +8,7 @@
 * 🧠 — If I could describe myself in a single phrase, that will be: ***Never stop learning!!!***
 
 ### Work
-* 💻 - I'm currently working at **Red Ventures Brasil** as a Software Engineer.
+* 💻 - I'm currently working at **Red Ventures Brazil** as a Software Engineer.
 
 * 👨‍💻 - Focusing tech stack: **Go**, **AWS**, **Kubernetes**, **MySQL** and **Terraform**.
 
