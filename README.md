@@ -3,7 +3,7 @@
 ### Personal Information
 * ✔️ — Hi everyone, I am **Victor Ferreira** better known as **Victim** 😛, bachelor in electrical engineering and have a few years of experience working as a full stack web developer, but my skills in the back-end area are sharper 😎.
 
-* 🌇 — I'm currently living in **Goiânia/GO - Brazil**.
+* 🌇 — I'm currently living in **Blumenau/SC - Brazil**.
 
 * 🧠 — If I could describe myself in a single phrase, that will be: ***Never stop learning!!!***
 
