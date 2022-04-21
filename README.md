@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/78317087/141852124-4ad66c51-5ae7-41ab-b0f4-ee5c68200560.png)
+![GitHub Banner](https://user-images.githubusercontent.com/78317087/164353035-4db2f6b6-23e7-4dbc-8ef0-10515bcf61fa.png)
 
 ### Personal Information
 * ✔️ — Hi everyone, I am **Victor Ferreira** better known as **Victim** 😛, bachelor in electrical engineering and have a few years of experience working as a full stack web developer, but my skills in the back-end area are sharper 😎.
