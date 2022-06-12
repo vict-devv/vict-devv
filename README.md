@@ -1,7 +1,7 @@
 ![GitHub Banner](https://user-images.githubusercontent.com/78317087/164353035-4db2f6b6-23e7-4dbc-8ef0-10515bcf61fa.png)
 
 ### Personal Information
-* ✔️ — Hi everyone, I am **Victor Ferreira** better known as **Victim** 😛, bachelor in electrical engineering and have a few years of experience working as a full stack web developer, but my skills in the back-end area are sharper 😎.
+* ✔️ — Hi everyone, I am **Victor Ferreira** better known as **Victim** 😛, bachelor in electrical engineering but I work as a software engineer with few years of experience. I've worked on both words, front and back, but my skills in the backend area are sharper 😎.
 
 * 🌇 — I'm currently living in **Blumenau/SC - Brazil**.
 
