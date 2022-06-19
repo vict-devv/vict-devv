@@ -7,10 +7,6 @@
 
 * 🧠 — If I could describe myself in a single phrase, that will be: ***Never stop learning!!!***
 
-### Work
-* 💻 - I'm currently working at **Red Ventures Brazil** as a Software Engineer.
-
-* 👨‍💻 - Focusing tech stack: **Go**, **Rust**, **AWS / Terraform**, **Kubernetes**, **MySQL / Postgres**.
 
 <div align=center>
   <a href=https://www.linkedin.com/in/victor-ferreira-ara%C3%BAjo-327049156>
