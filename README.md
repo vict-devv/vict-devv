@@ -1,12 +1,7 @@
-![GitHub Banner](https://user-images.githubusercontent.com/78317087/164353035-4db2f6b6-23e7-4dbc-8ef0-10515bcf61fa.png)
-
 ### Personal Information
-* ✔️ — Hi everyone, I am **Victor Ferreira** better known as **Victim** 😛, bachelor in electrical engineering but I work as a software engineer with few years of experience. I've worked on both worlds, front and back, but my skills in the backend area are sharper 😎.
-
+* ✔️ — Hi everyone, I am **Victor Ferreira** better known as **Victim** 😛.
+* 👨‍💻 - Software Engineer with few years of experience.
 * 🌇 — I'm currently living in **Blumenau/SC - Brazil**.
-
-* 🧠 — If I could describe myself in a single phrase, that will be: ***Never stop learning!!!***
-
 
 <div align=center>
   <a href=https://www.linkedin.com/in/victor-ferreira-ara%C3%BAjo-327049156>
